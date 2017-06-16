@@ -37,7 +37,7 @@ SQL scanner made for C # studies, feel free to improve the source code of this t
 
 #### Credits
 
-List of vulnerabilities by [Luth1er] (https://github.com/Luth1er/)
+List of vulnerabilities by [Luth1er](https://github.com/Luth1er/)
 
 #### Contributor
 
@@ -62,7 +62,7 @@ Escáner SQL hecho para estudios en C #, quédese a gusto para mejorar el códig
 
 #### Créditos
 
-Lista de vulnerabilidades proporcionada por [Luth1er] (https://github.com/Luth1er/)
+Lista de vulnerabilidades proporcionada por [Luth1er](https://github.com/Luth1er/)
 
 #### Contribuidor
 
